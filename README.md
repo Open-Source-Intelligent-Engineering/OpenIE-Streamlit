@@ -1,13 +1,12 @@
 <div align="center">
-	<img src="https://i.loli.net/2021/11/24/x5lLfuSnEawBAgi.png"/>
-	<h1>Soybean Admin</h1>
+	<h1>OpenIE</h1>
 </div>
 
 [![license](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)
 
 ## 简介
 
-Soybean Admin  是一个基于 Vue3、Vite、TypeScript、Naive UI 的免费中后台模版，它使用了最新的前端技术栈，内置丰富的主题配置，有着极高的代码规范，基于mock实现的动态权限路由，开箱即用的中后台前端解决方案，也可用于学习参考。
+
 
 ## 特性
 
@@ -20,17 +19,14 @@ Soybean Admin  是一个基于 Vue3、Vite、TypeScript、Naive UI 的免费中�
 
 ## 预览
 
-- [soybean-admin](https://soybean.pro/)
+
 
 ## 文档
 
-- [项目文档](https://docs.soybean.pro)
+
 
 ## 代码仓库
 
-- [github](https://github.com/honghuangdc/soybean-admin)
-
-- [gitee](https://gitee.com/honghuangdc/soybean-admin)
 
 ## 特性细节
 
@@ -98,26 +94,13 @@ Soybean Admin  是一个基于 Vue3、Vite、TypeScript、Naive UI 的免费中�
 
 ## 项目示例图
 
-![](https://s2.loli.net/2022/01/24/ovK6Oyqr7gIMu2n.png)
-
-![](https://s2.loli.net/2022/01/24/O8loxYhMySHwGfJ.png)
-
-![](https://s2.loli.net/2022/01/24/HKwpJ7Ab6j8fVvk.png)
-
-![](https://s2.loli.net/2022/01/24/bqJRSDZHBv3jsif.png)
-
-![](https://s2.loli.net/2022/01/24/wXpHeau6UrSTWdF.png)
-
-![](https://s2.loli.net/2022/02/16/pBwF2gaxXnKZe3D.png)
-
-![](https://s2.loli.net/2022/02/16/pfuxVEPsTJIXw5n.png)
 
 ## 安装使用
 
 - 克隆代码
 
 ```bash
-git clone https://github.com/honghuangdc/soybean-admin.git
+
 ```
 
 - 安装依赖
@@ -162,27 +145,8 @@ pnpm i -g commitizen
 | :-: | :-: | :-: | :-: | :-: |
 | not support | last 2 versions | last 2 versions | last 2 versions | last 2 versions |
 
-## 开源作者
 
-[@Soybean](https://github.com/honghuangdc)
-
-## 交流
-
-`Soybean Admin` 是完全开源免费的项目，在帮助开发者更方便地进行中大型管理系统开发，同时也提供 QQ 交流群使用问题欢迎在群内提问。
-
-- 微信交流群：
-  <div style="text-align:left">
-    <img src="https://s2.loli.net/2022/02/16/YtbPSOcUf9xiGvZ.jpg" style="width:200px" />
-  </div>
-
-- QQ 群 `711301266`
-
-  <div style="text-align:left">
-    <img src="https://i.loli.net/2021/11/24/1J6REWXiHomU2kM.jpg" style="width:200px" />
-  </div>
-
-- 本人微信号：honghuangdc，欢迎来技术交流，业务咨询。
 
 ## License
 
-[MIT © Soybean-2021](./LICENSE)
+[MIT © OpenIE-2022](./LICENSE)
