@@ -98,9 +98,8 @@
 ## 安装使用
 
 - 克隆代码
-
 ```bash
-
+git https://github.com/QianZeHao123/OpenIE.git
 ```
 
 - 安装依赖
